@@ -1,0 +1,163 @@
+{
+  "personalInfo": {
+    "fullName": "Alex Rivera",
+    "email": "alex.rivera.analytics@gmail.com",
+    "phone": "+1 (555) 234-5678",
+    "location": "New York, NY (Open to Remote / Hybrid)",
+    "linkedIn": "linkedin.com/in/alex-rivera-data",
+    "github": "github.com/alexrivera-data",
+    "portfolio": "alexrivera.dev/data-portfolio",
+    "workAuthorization": "Authorized to work in the US (US Citizen)",
+    "requiresSponsorship": "No",
+    "noticePeriod": "2 weeks",
+    "expectedSalary": "$80,000 - $95,000 / year",
+    "yearsOfExperience": "1.5"
+  },
+  "headline": "Junior Data Analyst | SQL • Python • Tableau • Power BI • dbt",
+  "summary": "Detail-oriented Data Analyst with 1.5 years of experience delivering actionable insights through SQL data modeling, automated ETL pipelines, and interactive executive dashboards in Tableau and Power BI. Proven track record of reducing reporting turnaround times by 40% and translating complex datasets into clear strategic recommendations for cross-functional stakeholders.",
+  "skills": {
+    "sqlAndDatabases": [
+      "SQL (PostgreSQL, MySQL)",
+      "Complex Joins & Window Functions",
+      "CTEs & Subqueries",
+      "Query Optimization",
+      "Schema Design"
+    ],
+    "programmingAndScripting": [
+      "Python (Pandas, NumPy)",
+      "Matplotlib & Seaborn",
+      "Jupyter Notebooks",
+      "REST APIs",
+      "Git & GitHub"
+    ],
+    "biAndVisualization": [
+      "Tableau Desktop",
+      "Power BI (DAX, Power Query)",
+      "Looker Studio",
+      "Executive KPI Dashboards",
+      "Data Storytelling"
+    ],
+    "cloudAndWarehouses": [
+      "Google BigQuery",
+      "Snowflake (Basics)",
+      "dbt (Core data models)",
+      "AWS S3 / Redshift exposure"
+    ],
+    "analyticsAndStatistics": [
+      "Exploratory Data Analysis (EDA)",
+      "A/B Testing & Hypothesis Testing",
+      "Cohort Analysis",
+      "Funnel Optimization",
+      "Customer Segmentation"
+    ],
+    "toolsAndWorkflow": [
+      "Excel (XLOOKUP, Pivot Tables, Macros)",
+      "Jira / Agile",
+      "Confluence",
+      "VS Code"
+    ],
+    "softSkills": [
+      "Cross-functional Communication",
+      "Stakeholder Presentation",
+      "Problem Solving",
+      "Documentation",
+      "Curiosity & Fast Learner"
+    ]
+  },
+  "experience": [
+    {
+      "id": "exp-1",
+      "role": "Associate Data Analyst",
+      "company": "Veloce Retail Solutions",
+      "location": "New York, NY",
+      "startDate": "2024-06",
+      "endDate": "Present",
+      "current": true,
+      "bullets": [
+        "Architected automated SQL views and scheduled BigQuery queries for daily e-commerce sales tracking, reducing manual report compilation time from 6 hours to 15 minutes weekly.",
+        "Built and maintained 8+ production Tableau dashboards monitoring GMV, conversion rates, and inventory velocity for 12 category managers and executive leadership.",
+        "Performed exploratory data analysis in Python (Pandas) across 1.2M customer orders, identifying 3 key churn indicators and contributing to a 4.2% lift in repeat customer retention.",
+        "Collaborated with data engineering to define data quality validation checks using dbt tests, catching schema drift and NULL anomalies before downstream dashboard ingestion."
+      ]
+    },
+    {
+      "id": "exp-2",
+      "role": "Junior Business Intelligence Intern",
+      "company": "Apex Media Analytics",
+      "location": "Boston, MA",
+      "startDate": "2023-09",
+      "endDate": "2024-05",
+      "current": false,
+      "bullets": [
+        "Authored modular PostgreSQL queries to analyze campaign performance metrics (CTR, CPA, ROAS) across multi-channel advertising initiatives.",
+        "Developed Power BI dashboards with dynamic DAX measures and custom drill-down hierarchies, adopted by 25+ account coordinators for client QBRs.",
+        "Audited legacy spreadsheet reports and reconciled discrepancies across Google Analytics 4 and backend transaction databases.",
+        "Presented monthly analytical summaries to marketing stakeholders, translating technical data findings into actionable budget reallocations."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "E-Commerce Customer Lifetime Value (LTV) & Churn Predictor",
+      "tools": [
+        "Python",
+        "Pandas",
+        "Scikit-Learn",
+        "Streamlit",
+        "PostgreSQL"
+      ],
+      "description": "End-to-end analytics workflow segmenting 50,000+ customer profiles using RFM scoring and logistic regression to identify high-risk churn cohorts.",
+      "bullets": [
+        "Engineered behavioral RFM (Recency, Frequency, Monetary) features from raw SQL transactions using PostgreSQL window functions.",
+        "Trained baseline classification model achieving 81% precision in predicting customer defection within 60 days.",
+        "Deployed an interactive Streamlit dashboard allowing retention managers to filter at-risk accounts by predicted revenue loss."
+      ],
+      "link": "github.com/alexrivera-data/customer-churn-rfm"
+    },
+    {
+      "id": "proj-2",
+      "title": "Real-Time SaaS Product Analytics Dashboard & Funnel Analysis",
+      "tools": [
+        "Tableau",
+        "SQL",
+        "BigQuery",
+        "dbt"
+      ],
+      "description": "Interactive KPI dashboard modeling user onboarding drop-off points, feature adoption rates, and subscription tier upgrades.",
+      "bullets": [
+        "Constructed normalized dimensional models (Star Schema) in BigQuery with fact tables tracking 2M+ user telemetry events.",
+        "Identified a 34% drop-off in the signup funnel at the workspace creation step, informing UX team's redesigned onboarding flow.",
+        "Documented data dictionary and metric calculation logic in Confluence for organizational consistency."
+      ],
+      "link": "public.tableau.com/profile/alexrivera"
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "degree": "B.S. in Information Systems & Business Analytics",
+      "institution": "Northeastern University",
+      "graduationYear": "2023",
+      "gpa": "3.75 / 4.0",
+      "location": "Boston, MA"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Data Analytics Professional Certificate",
+      "issuer": "Coursera / Google",
+      "year": "2023"
+    },
+    {
+      "name": "Tableau Desktop Specialist",
+      "issuer": "Tableau",
+      "year": "2024"
+    },
+    {
+      "name": "dbt Fundamentals Certified",
+      "issuer": "dbt Labs",
+      "year": "2024"
+    }
+  ]
+}

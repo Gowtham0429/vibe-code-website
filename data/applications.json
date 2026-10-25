@@ -1,0 +1,214 @@
+[
+  {
+    "id": "app-101",
+    "company_name": "Spotify",
+    "job_title": "Junior Product Analyst",
+    "job_url": "https://www.lifeatspotify.com/jobs/junior-product-analyst-nyc",
+    "match_score": 91,
+    "tailored_resume_path": "/resumes/Alex_Rivera_Spotify_Tailored.pdf",
+    "applied_date": "2026-10-18",
+    "status": "INTERVIEW",
+    "last_updated": "2026-10-24",
+    "notes": "Passed recruiter screen. 45-min technical interview on SQL window functions & A/B testing metric definitions scheduled for Thursday.",
+    "salary_range": "$88,000 - $98,000",
+    "location": "New York, NY (Hybrid)",
+    "missing_skills": [
+      "Petabyte Scale Data",
+      "Advanced Audio Analytics"
+    ],
+    "matched_skills": [
+      "SQL",
+      "BigQuery",
+      "Tableau",
+      "Python (Pandas)",
+      "A/B Testing",
+      "Funnel Analysis",
+      "Data Storytelling"
+    ],
+    "applied_via": "Greenhouse ATS (Copilot Auto-Filled)"
+  },
+  {
+    "id": "app-102",
+    "company_name": "DoorDash",
+    "job_title": "BI & Operations Analyst",
+    "job_url": "https://careers.doordash.com/jobs/bi-operations-analyst",
+    "match_score": 87,
+    "tailored_resume_path": "/resumes/Alex_Rivera_DoorDash_Tailored.pdf",
+    "applied_date": "2026-10-15",
+    "status": "SHORTLISTED",
+    "last_updated": "2026-10-22",
+    "notes": "Recruiter emailed expressing interest in Power BI DAX portfolio project. Asked for availability next week.",
+    "salary_range": "$85,000 - $92,000",
+    "location": "Remote (US)",
+    "missing_skills": [
+      "Advanced Snowflake",
+      "Courier Logistics"
+    ],
+    "matched_skills": [
+      "SQL",
+      "Power BI",
+      "DAX",
+      "Tableau",
+      "PostgreSQL",
+      "Cohort Analysis",
+      "Excel"
+    ],
+    "applied_via": "Workday Portal"
+  },
+  {
+    "id": "app-103",
+    "company_name": "Stripe",
+    "job_title": "Analytics Engineer (Early Career)",
+    "job_url": "https://stripe.com/jobs/early-career-analytics-engineer",
+    "match_score": 85,
+    "tailored_resume_path": "/resumes/Alex_Rivera_Stripe_Tailored.pdf",
+    "applied_date": "2026-10-12",
+    "status": "UNDER_REVIEW",
+    "last_updated": "2026-10-20",
+    "notes": "Application viewed by hiring manager. Highlighted dbt test validation work from Veloce Retail.",
+    "salary_range": "$95,000 - $110,000",
+    "location": "Seattle, WA / Remote",
+    "missing_skills": [
+      "CI/CD Pipeline Automation",
+      "Databricks"
+    ],
+    "matched_skills": [
+      "dbt",
+      "SQL",
+      "Dimensional Modeling",
+      "BigQuery",
+      "Git",
+      "Schema Design"
+    ],
+    "applied_via": "Lever ATS"
+  },
+  {
+    "id": "app-104",
+    "company_name": "Capital One",
+    "job_title": "Junior Data Analyst - Risk & Compliance",
+    "job_url": "https://capitalonecareers.com/job/data-analyst-risk",
+    "match_score": 82,
+    "tailored_resume_path": "/resumes/Alex_Rivera_CapitalOne_Tailored.pdf",
+    "applied_date": "2026-10-08",
+    "status": "INTERVIEW",
+    "last_updated": "2026-10-23",
+    "notes": "Round 2 Case Study presentation: SQL query optimization and anomaly detection.",
+    "salary_range": "$90,000 - $100,000",
+    "location": "McLean, VA / Hybrid",
+    "missing_skills": [
+      "AWS Redshift",
+      "SAS"
+    ],
+    "matched_skills": [
+      "SQL",
+      "Python",
+      "Data Quality Auditing",
+      "Tableau",
+      "Financial Reporting"
+    ],
+    "applied_via": "Workday Portal"
+  },
+  {
+    "id": "app-105",
+    "company_name": "Uber",
+    "job_title": "Operations Data Analyst",
+    "job_url": "https://uber.com/careers/operations-analyst",
+    "match_score": 76,
+    "tailored_resume_path": "/resumes/Alex_Rivera_Uber_Tailored.pdf",
+    "applied_date": "2026-09-28",
+    "status": "REJECTED",
+    "last_updated": "2026-10-06",
+    "notes": "Automated rejection email received. Missing heavy Apache Spark / PySpark distributed computing experience required for driver marketplace routing.",
+    "salary_range": "$92,000 - $105,000",
+    "location": "San Francisco, CA",
+    "missing_skills": [
+      "Apache Spark / PySpark",
+      "Distributed Systems",
+      "Geospatial Analytics (H3)"
+    ],
+    "matched_skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "Cohort Analysis"
+    ],
+    "applied_via": "Uber Careers"
+  },
+  {
+    "id": "app-106",
+    "company_name": "Airbnb",
+    "job_title": "Data Analyst, Search & Discovery",
+    "job_url": "https://airbnb.com/careers/data-analyst-search",
+    "match_score": 72,
+    "tailored_resume_path": "/resumes/Alex_Rivera_Airbnb_Tailored.pdf",
+    "applied_date": "2026-09-24",
+    "status": "REJECTED",
+    "last_updated": "2026-10-03",
+    "notes": "Rejected after screening. Feedback indicated strong preference for candidates with direct production Apache Airflow DAG scheduling and Machine Learning feature stores.",
+    "salary_range": "$95,000 - $115,000",
+    "location": "Remote",
+    "missing_skills": [
+      "Apache Airflow",
+      "ML Feature Store",
+      "Search Ranking Metrics (NDCG)"
+    ],
+    "matched_skills": [
+      "SQL",
+      "A/B Testing",
+      "Python",
+      "Tableau"
+    ],
+    "applied_via": "Greenhouse ATS"
+  },
+  {
+    "id": "app-107",
+    "company_name": "Wayfair",
+    "job_title": "Supply Chain Analytics Associate",
+    "job_url": "https://wayfair.com/careers/supply-chain-analytics",
+    "match_score": 84,
+    "tailored_resume_path": "/resumes/Alex_Rivera_Wayfair_Tailored.pdf",
+    "applied_date": "2026-10-21",
+    "status": "APPLIED",
+    "last_updated": "2026-10-21",
+    "notes": "Submitted tailored resume emphasizing inventory velocity dashboards and automated BigQuery views.",
+    "salary_range": "$82,000 - $90,000",
+    "location": "Boston, MA",
+    "missing_skills": [
+      "Supply Chain Forecasting",
+      "SAP ERP"
+    ],
+    "matched_skills": [
+      "SQL",
+      "BigQuery",
+      "Tableau",
+      "Inventory Analytics",
+      "Python"
+    ],
+    "applied_via": "Greenhouse ATS (Copilot Auto-Filled)"
+  },
+  {
+    "id": "app-108",
+    "company_name": "Etsy",
+    "job_title": "Junior Marketplace Analyst",
+    "job_url": "https://etsy.com/careers/marketplace-analyst",
+    "match_score": 89,
+    "tailored_resume_path": "/resumes/Alex_Rivera_Etsy_Tailored.pdf",
+    "applied_date": "2026-10-22",
+    "status": "APPLIED",
+    "last_updated": "2026-10-22",
+    "notes": "Applied with tailored summary emphasizing customer lifetime value and e-commerce churn analysis project.",
+    "salary_range": "$85,000 - $95,000",
+    "location": "Brooklyn, NY (Hybrid)",
+    "missing_skills": [
+      "Looker / LookML"
+    ],
+    "matched_skills": [
+      "SQL",
+      "Python",
+      "Tableau",
+      "RFM Segmentation",
+      "E-commerce Analytics"
+    ],
+    "applied_via": "Lever ATS (Copilot Auto-Filled)"
+  }
+]

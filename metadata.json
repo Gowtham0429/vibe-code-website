@@ -1,0 +1,6 @@
+{
+  "name": "DataPulse - AI Job Application & Tracking Copilot",
+  "description": "ATS Resume Tailoring Engine, Application Form Pre-Filler Copilot, and Lifecycle Tracker with Skill Gap Analytics for Early-Career Data Analytics Professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

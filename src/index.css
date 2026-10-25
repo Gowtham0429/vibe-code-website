@@ -1,0 +1,117 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #FAF8F5;
+    color: #27241D;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* Subtle 3D Aesthetic Design Tokens */
+.card-3d {
+  background: #FFFFFF;
+  border: 1px solid rgba(218, 196, 156, 0.45);
+  box-shadow: 
+    0 1px 2px rgba(180, 150, 100, 0.05),
+    0 8px 24px -4px rgba(170, 140, 90, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.95);
+  border-radius: 1rem;
+}
+
+.card-3d-elevated {
+  background: #FFFFFF;
+  border: 1px solid rgba(214, 189, 144, 0.55);
+  box-shadow: 
+    0 2px 4px rgba(160, 130, 80, 0.06),
+    0 14px 32px -6px rgba(170, 135, 75, 0.12),
+    inset 0 1px 0 rgba(255, 255, 255, 1);
+  border-radius: 1.25rem;
+}
+
+.card-3d-interactive {
+  background: #FFFFFF;
+  border: 1px solid rgba(220, 198, 160, 0.5);
+  box-shadow: 
+    0 1px 3px rgba(160, 130, 80, 0.05),
+    0 6px 16px -2px rgba(170, 135, 80, 0.07),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.card-3d-interactive:hover {
+  transform: translateY(-2px);
+  border-color: rgba(196, 158, 90, 0.7);
+  box-shadow: 
+    0 4px 12px rgba(160, 130, 80, 0.08),
+    0 16px 36px -6px rgba(170, 135, 75, 0.14),
+    inset 0 1px 0 rgba(255, 255, 255, 1);
+}
+
+/* 3D Tactile Buttons */
+.btn-gold-3d {
+  background: linear-gradient(180deg, #E2C68E 0%, #C89F56 100%);
+  color: #FFFFFF;
+  text-shadow: 0 1px 1px rgba(70, 50, 20, 0.3);
+  border: 1px solid #B88E44;
+  box-shadow: 
+    0 1px 0 rgba(255, 255, 255, 0.35) inset,
+    0 3px 8px -1px rgba(170, 125, 45, 0.35),
+    0 1px 2px rgba(0, 0, 0, 0.08);
+  transition: all 0.15s ease;
+}
+
+.btn-gold-3d:hover {
+  background: linear-gradient(180deg, #E8CD97 0%, #D1A960 100%);
+  box-shadow: 
+    0 1px 0 rgba(255, 255, 255, 0.45) inset,
+    0 5px 14px -2px rgba(170, 125, 45, 0.45),
+    0 2px 4px rgba(0, 0, 0, 0.08);
+  transform: translateY(-1px);
+}
+
+.btn-gold-3d:active {
+  transform: translateY(1px);
+  box-shadow: 
+    0 1px 3px rgba(0, 0, 0, 0.2) inset,
+    0 1px 2px rgba(170, 125, 45, 0.2);
+}
+
+.btn-white-3d {
+  background: linear-gradient(180deg, #FFFFFF 0%, #F8F5EE 100%);
+  color: #3B362E;
+  border: 1px solid rgba(214, 189, 144, 0.6);
+  box-shadow: 
+    0 1px 0 rgba(255, 255, 255, 1) inset,
+    0 2px 5px rgba(160, 130, 80, 0.07);
+  transition: all 0.15s ease;
+}
+
+.btn-white-3d:hover {
+  background: #FFFFFF;
+  border-color: rgba(184, 142, 68, 0.8);
+  color: #1F1C17;
+  transform: translateY(-1px);
+  box-shadow: 
+    0 1px 0 rgba(255, 255, 255, 1) inset,
+    0 4px 10px rgba(160, 130, 80, 0.12);
+}
+
+.btn-white-3d:active {
+  transform: translateY(1px);
+  background: #F4EFE6;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.06) inset;
+}
+
+/* Inset 3D wells for inputs & trackbars */
+.inset-well-3d {
+  background: #F6F3EC;
+  border: 1px solid rgba(214, 192, 156, 0.5);
+  box-shadow: inset 0 2px 4px rgba(120, 100, 70, 0.07);
+}
+
+/* Subtle Gold Ambient Glow */
+.gold-glow {
+  box-shadow: 0 0 25px -4px rgba(212, 175, 55, 0.22);
+}
